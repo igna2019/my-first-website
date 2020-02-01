@@ -11,4 +11,4 @@ with th ls -a a .git file.
 Then working, with git status , git add and git commit to move the project-files   
 to the local repository and then get push to get.  
 it into remote repo.  
-you can check out the content of the website <a href="https://igna2019.github.io/my-first-website/" target="_blank">here!</a>
+you can check out the content of the website [here!] (https://igna2019.github.io/my-first-website/)
