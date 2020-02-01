@@ -1,6 +1,6 @@
 # My Very First Web Page
-Welcome!
-#My First Little Project
+Welcome!  
+# My First Little Project
 
 We have used here html and css.   
 Working with github, gitpod and the Git command lines to push   
